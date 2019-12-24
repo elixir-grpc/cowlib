@@ -1,3 +1,9 @@
+= NOTICE about the grpc fork
+
+This PR is be waiting to be merged https://github.com/ninenines/cowlib/pull/93
+
+See https://github.com/elixir-grpc/grpc#installation for details.
+
 = Cowlib
 
 Cowlib is a support library for manipulating Web protocols.
